@@ -1,10 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Alpha Mao的日报</title>
     <link>https://alphamao1.github.io/daily-digest-podcast-feed/daily.xml</link>
     <description>从 RSS、YouTube、GitHub 和 AIHOT 中筛选并讲清当天值得理解的信息。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 15 Jun 2026 13:18:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 14:28:14 +0000</lastBuildDate>
+    <itunes:author>Alpha Mao</itunes:author>
+    <itunes:owner>
+      <itunes:name>Alpha Mao</itunes:name>
+      <itunes:email>noreply@example.com</itunes:email>
+    </itunes:owner>
+    <image>
+      <url>https://alphamao1.github.io/daily-digest-podcast-feed/artwork/alpha-mao-daily-cover.jpg</url>
+      <title>Alpha Mao的日报</title>
+      <link>https://alphamao1.github.io/daily-digest-podcast-feed/daily.xml</link>
+    </image>
+    <itunes:image href="https://alphamao1.github.io/daily-digest-podcast-feed/artwork/alpha-mao-daily-cover.jpg" />
+    <item>
+      <title>Alpha Mao的日报 2026-06-15</title>
+      <description>今天讲 RSS、YouTube、GitHub 和 AIHOT：数字自主的执行链、GPU 寿命假设、软件工程未被替代的真实瓶颈、Mark Pincus 的 Proven/Better/New 产品判断，以及 5 个 GitHub 项目和 5 个 AIHOT 选题。</description>
+      <guid>ab17ce44ce34d0a8b99a38802e32f2c96fa2ff48be21ae94cc4342182b749535</guid>
+      <pubDate>Mon, 15 Jun 2026 14:28:12 +0000</pubDate>
+      <enclosure url="https://alphamao1.github.io/daily-digest-podcast-feed/audio/2026-06-15_mono.mp3" length="11679308" type="audio/mpeg" />
+    </item>
   </channel>
 </rss>
