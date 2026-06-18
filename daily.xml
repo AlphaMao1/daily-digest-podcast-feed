@@ -3,12 +3,12 @@
   <channel>
     <title>Alpha Mao的日报</title>
     <link>https://alphamao1.github.io/daily-digest-podcast-feed/daily.xml</link>
-    <description>从 RSS、YouTube、GitHub 和 AIHOT 中筛选并讲清当天值得理解的信息。</description>
+    <description>从 RSS 文章和 YouTube transcript 中快速讲清当天值得理解的核心观点与推理逻辑。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 16 Jun 2026 00:21:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 02:04:47 +0000</lastBuildDate>
     <atom:link href="https://alphamao1.github.io/daily-digest-podcast-feed/daily.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Alpha Mao</itunes:author>
-    <itunes:summary>从 RSS、YouTube、GitHub 和 AIHOT 中筛选并讲清当天值得理解的信息。</itunes:summary>
+    <itunes:summary>从 RSS 文章和 YouTube transcript 中快速讲清当天值得理解的核心观点与推理逻辑。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Technology" />
@@ -22,6 +22,13 @@
       <link>https://alphamao1.github.io/daily-digest-podcast-feed/daily.xml</link>
     </image>
     <itunes:image href="https://alphamao1.github.io/daily-digest-podcast-feed/artwork/alpha-mao-daily-cover.jpg" />
+    <item>
+      <title>2026-06-18 Alpha Mao的日报：模型护城河变薄，系统边界变硬</title>
+      <description>从 GLM-5.2、Anthropic 护栏、代码生产经济、OpenAI 护城河、Datasette 写入和数字自主，看 AI 竞争如何转向入口、权限、审计和依赖关系。</description>
+      <guid>61777b9715e6948ce33ff1dd101d88b61e454da47f6b73b9d30280382ac69665</guid>
+      <pubDate>Thu, 18 Jun 2026 02:04:39 +0000</pubDate>
+      <enclosure url="https://alphamao1.github.io/daily-digest-podcast-feed/audio/2026-06-18_mono.mp3" length="4592780" type="audio/mpeg" />
+    </item>
     <item>
       <title>2026-06-16 Alpha Mao的日报：harness 才是价值转换器</title>
       <description>从 Android Gemini DMA、datasette-agent、Perplexity 访谈、h5i、Stash 和 DFlash，看 agent 竞争如何从模型转向入口、写入、证据和成本。</description>
