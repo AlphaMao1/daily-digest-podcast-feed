@@ -5,7 +5,7 @@
     <link>https://alphamao1.github.io/daily-digest-podcast-feed/daily.xml</link>
     <description>从 RSS 文章和 YouTube transcript 中快速讲清当天值得理解的核心观点与推理逻辑。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 18 Jun 2026 02:04:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 08:39:40 +0000</lastBuildDate>
     <atom:link href="https://alphamao1.github.io/daily-digest-podcast-feed/daily.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Alpha Mao</itunes:author>
     <itunes:summary>从 RSS 文章和 YouTube transcript 中快速讲清当天值得理解的核心观点与推理逻辑。</itunes:summary>
@@ -22,6 +22,13 @@
       <link>https://alphamao1.github.io/daily-digest-podcast-feed/daily.xml</link>
     </image>
     <itunes:image href="https://alphamao1.github.io/daily-digest-podcast-feed/artwork/alpha-mao-daily-cover.jpg" />
+    <item>
+      <title>2026-06-21 Alpha Mao的日报：边界能力正在超过模型能力</title>
+      <description>从 MCP 授权、Datasette Apps、本地自动补全、AI 数据黑洞、Flexport workflow ROI 和 Popa botnet，看 AI 工作流竞争如何转向权限、执行壳、反馈和审计。</description>
+      <guid>2d9587c2c8bc2800b40afbaa1a1134c5d47ec073f3af1c4d0ff054a0e936a059</guid>
+      <pubDate>Sun, 21 Jun 2026 08:39:20 +0000</pubDate>
+      <enclosure url="https://alphamao1.github.io/daily-digest-podcast-feed/audio/2026-06-21_mono.mp3" length="4631084" type="audio/mpeg" />
+    </item>
     <item>
       <title>2026-06-18 Alpha Mao的日报：模型护城河变薄，系统边界变硬</title>
       <description>从 GLM-5.2、Anthropic 护栏、代码生产经济、OpenAI 护城河、Datasette 写入和数字自主，看 AI 竞争如何转向入口、权限、审计和依赖关系。</description>
